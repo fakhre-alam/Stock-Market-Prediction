@@ -1,1 +1,4 @@
+Using News Articles to Predict Stock MovementsBased on Different Forecasting TechniquesStatistical, Regression and Text Mining
 
+
+The presence of data today enables investors at any scale to make better investment decisions. The challengeis ingesting and interpreting the data to determine which data is useful, finding the signal in this sea of information.Question is can we use the content of news analytics to predict stock price performances. This paper shows the analysisof news data to predict stock prices. This unique opportunity will advance the state of research in understanding the predictive power of the news. This power if harnessed could help financial outcomes and generate significant economicimpact all over the world. Here target is to predict the 10-day market residualized returns depending upon various pricemovements recorded at the close and open time of the market associated with that stock using news article
